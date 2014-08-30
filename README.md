@@ -8,3 +8,5 @@ A simple TicTacToe game in Android
 
 Screenshot of this game
 ===================
+
+![Screenshot 1](http://www.andengine.org/images/blog.png)
